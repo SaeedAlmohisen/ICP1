@@ -1,8 +1,8 @@
 # Students Information
 
-| Name | Class ID | Email |
-| :------: | :------: | :------: |
-| Khalid Dhabbah | 4 | kmdk2t@mail.umkc.edu |
+|      Name       | Class ID | Email |
+| :-------------: | :------: | :------: |
+|  SAEED ALQARNI  |   1      | saacfb@mail.umkc.edu |
 
 # Introduction
 This repository is about Knowledge Discovery and Management, a course that I am taking at UMKC.
